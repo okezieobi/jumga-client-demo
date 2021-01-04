@@ -12,7 +12,10 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0b2b7631-702c-4e7d-acfe-5be1244b56b0/deploy-status)](https://app.netlify.com/sites/awesome-kalam-4494a0/deploys)
 # Jumga client live app
+https://jumga-demo.netlify.app/
 
+## Backend repo
+https://github.com/okezieobi/jumga-server-demo
 
 
 # Getting Started with Create React App
