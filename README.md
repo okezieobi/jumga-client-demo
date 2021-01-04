@@ -1,3 +1,16 @@
+![Node.js CI](https://github.com/okezieobi/jumga-client-demo/workflows/Node.js%20CI/badge.svg)
+
+![codacy-coverage-reporter](https://github.com/okezieobi/jumga-client-demo/workflows/codacy-coverage-reporter/badge.svg)
+
+[![Build Status](https://travis-ci.com/okezieobi/jumga-client-demo.svg?branch=main)](https://travis-ci.com/okezieobi/jumga-client-demo)
+
+[![Coverage Status](https://coveralls.io/repos/github/okezieobi/jumga-client-demo/badge.svg?branch=main)](https://coveralls.io/github/okezieobi/jumga-client-demo?branch=main)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2c8b1bc5d9b6451c89b7594e295f3819)](https://www.codacy.com/gh/okezieobi/jumga-client-demo/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=okezieobi/jumga-client-demo&amp;utm_campaign=Badge_Grade)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/2c8b1bc5d9b6451c89b7594e295f3819)](https://www.codacy.com/gh/okezieobi/jumga-client-demo/dashboard?utm_source=github.com&utm_medium=referral&utm_content=okezieobi/jumga-client-demo&utm_campaign=Badge_Coverage)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0b2b7631-702c-4e7d-acfe-5be1244b56b0/deploy-status)](https://app.netlify.com/sites/awesome-kalam-4494a0/deploys)
 # Jumga client live app
 
 
